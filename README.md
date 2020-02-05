@@ -1,14 +1,12 @@
-# This is a Heading
+# Introduction 
+This is designed to be a module that handles little things myself and other contributers have scripted out in our spare time over the last 15+ years.
 
-## This is a smaller Heading
+# Getting Started
+There's nothing here yet, we're still testing.
 
-Why We do this:
-    * Reason1
-    * Reason2
-        * SubReason1
-    * Reason3
-* No Indent Bullet
+# Build and Test
+Ha....
 
-1 test
-2 test
-3 test
+# Contribute
+There's a pretty small contributor group at this point. I'll put together a way to join that team at a later date.
+
